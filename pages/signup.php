@@ -71,7 +71,7 @@ include 'signupdatabase.php';
                       <div class="col-sm-9">
                         <select class="form-control" name="role" required>
                           <option value="">Choose role</option>
-                          <option value="admin">Admin</option>
+                          <!-- <option value="admin">Admin</option> -->
                           <option value="owner">Owner</option>
                           <option value="customer">Customer</option>
                         </select>

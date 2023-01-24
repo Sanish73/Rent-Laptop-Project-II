@@ -34,7 +34,7 @@
 				</div>
 				<p class="text-gray font-weight-bold text-center bg-white text-uppercase px-3 medium p-4 mb-0">Owner Dashboard</p>
 				<?php 
-					include "menu/navigation.php";
+					include "menu/navigation.php";///ya bara menu -> nevigaion.php ma gako
 				?>
 			</div>
 
