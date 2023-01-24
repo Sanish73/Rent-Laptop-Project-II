@@ -24,7 +24,7 @@
                   
                 <li class="nav-item drop">
                     <div class="dropdown">
-                        <a class="nav-link" data-toggle="dropdown">
+                        <a class="nav-link cursor-pointer" data-toggle="dropdown">
                         <?php echo $_SESSION['auth']->name;?>
                         </a>
                         <div class="dropdown-menu">

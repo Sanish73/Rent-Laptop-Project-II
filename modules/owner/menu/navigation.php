@@ -14,11 +14,11 @@
                 <i class="fal fa-check-square mr-3 text-primary"></i>Rented Status
             </a>
         </li>
-        <li class="nav-items">
+        <!-- <li class="nav-items">
             <a href="index.php?m=rented" class="nav-link text-dark">
                 <i class="fal fa-money-check  mr-3 text-primary"></i>Receive Payment
             </a>
-        </li>
+        </li> -->
         <li class="nav-items">
             <a href="index.php?m=credential" class="nav-link text-dark">
             <i class="fas fa-file-upload mr-3 text-primary"></i>Add Credentials

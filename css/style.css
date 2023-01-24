@@ -30,7 +30,9 @@
 .content{
        min-height: 81.5vh;
 }
-   
+.cursor-pointer{
+       cursor: pointer;
+}
 /* .footer{
        position: fixed;
        bottom: 0;
